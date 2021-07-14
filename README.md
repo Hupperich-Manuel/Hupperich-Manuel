@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Finanacial Analysis Projects
 - 🤔 I’m looking for help with Time Series struggles
 - 💬 Ask me about GARCH Model
-- 📫 How to reach me: Manuel Hupperich on LinkedIn
+- 📫 How to reach me: [LinkedIn - Manuel Hupperich](https://www.linkedin.com/in/manuel-hupperich-36448b13a/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I do Blog Posts
