@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on web application with machine learning analysis
 - 🌱 I’m currently learning Deep Neural Networks
-- 👯 I’m looking to collaborate on Finanacial Analysis Projects
+- 👯 I’m looking to collaborate on Machine Learning Projects
 - 🤔 I’m looking for help with Time Series struggles
 - 💬 Ask me about GARCH Model
 - 📫 How to reach me: [LinkedIn - Manuel Hupperich](https://www.linkedin.com/in/manuel-hupperich-36448b13a/)
