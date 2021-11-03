@@ -1,6 +1,6 @@
 ### Hi I'm Manuel Hupperich! 👋
 
-- 🔭 I’m currently working on a Mean Reversion Trading Strategy
+- 🔭 I’m currently working on web application with machine learning analysis
 - 🌱 I’m currently learning Deep Neural Networks
 - 👯 I’m looking to collaborate on Finanacial Analysis Projects
 - 🤔 I’m looking for help with Time Series struggles
