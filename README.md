@@ -1,4 +1,4 @@
-<script src ="https://github.com/Hupperich-Manuel/Hupperich-Manuel/blob/main/typelighter.js"></script>
+<script src ="https://github.com/Hupperich-Manuel/Hupperich-Manuel/blob/main/typelighter.min.js"></script>
 <p><span class="typeWriter" data-text='["## Hi I'm Manuel Hupperich! 👋"]'></span></p>
 
 - 🔭 I’m currently working on web application with machine learning analysis
