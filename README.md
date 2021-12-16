@@ -1,6 +1,9 @@
-<script src ="https://github.com/Hupperich-Manuel/Hupperich-Manuel/blob/main/typelighter.min.js"></script>
-<p><span class="typeWriter" data-text='["foo"]'></span></p>
-
+<head>
+  <body>
+    <script src ="https://github.com/Hupperich-Manuel/Hupperich-Manuel/blob/main/typelighter.min.js"></script>
+    <p><span class="typeWriter" data-text='["foo"]'></span></p>
+  </body>
+</head>
 - 🔭 I’m currently working on web application with machine learning analysis
 - 🌱 I’m currently learning Deep Neural Networks
 - 👯 I’m looking to collaborate on Machine Learning Projects
