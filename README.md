@@ -1,11 +1,4 @@
-<head>
-  <body>
-    <p>
-       <span class="typeWriter" data-text='["foo"]'></span>
-    </p>
-  </body>
-  <script src="typelighter.min.js"></script>
-</head>
+
 
 - 🔭 I’m currently working on web application with machine learning analysis
 - 🌱 I’m currently learning Deep Neural Networks
@@ -17,3 +10,4 @@
 - ⚡ Fun fact: I do Blog Posts
 
 <img src = 'https://github-readme-stats.vercel.app/api?username=Hupperich-Manuel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919'>
+
