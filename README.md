@@ -1,4 +1,4 @@
-<p><span class="typeWriter" data-text='["### Hi I'm Manuel Hupperich! 👋"]'></span></p>
+<p><span class="typeWriter" data-text='["## Hi I'm Manuel Hupperich! 👋"]'></span></p>
 
 - 🔭 I’m currently working on web application with machine learning analysis
 - 🌱 I’m currently learning Deep Neural Networks
