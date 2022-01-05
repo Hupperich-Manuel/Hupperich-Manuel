@@ -30,7 +30,7 @@
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 [![Github all releases](https://img.shields.io/github/downloads/Hupperich-Manuel/SEC_Company_Application/total.svg)](https://GitHub.com/Hupperich-Manuel/SEC_Company_Application/releases/)
 [![Github all releases](https://img.shields.io/github/downloads/Hupperich-Manuel/SEC_Company_Application/total.svg)](https://GitHub.com/Hupperich-Manuel/SEC_Company_Application/releases/)
-![Profile views](https://gpvc.arturio.dev/ManuelHupperich)
+![counter](https://enlg7u0qi4yx26n.m.pipedream.net)
 
 <img src = 'https://github-readme-stats.vercel.app/api?username=Hupperich-Manuel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=181919'>
 
