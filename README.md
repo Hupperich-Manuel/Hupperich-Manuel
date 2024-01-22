@@ -19,9 +19,6 @@
   <a>
   <img src = https://user-images.githubusercontent.com/67901472/147413766-27402f32-f918-412c-8701-23d8aa143135.jpg width=40 height=40>
   </a>
-  <a href = https://twitter.com/HupperichManuel>
-  <img src = https://user-images.githubusercontent.com/67901472/147413745-c57ca67a-e58c-4d04-be2f-8d0e403fd451.jpg width=40 height=40>
-  </a>
 </p>
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
