@@ -23,7 +23,6 @@
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 
 <img src = 'https://github-readme-stats.vercel.app/api?username=Hupperich-Manuel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=181919'>
