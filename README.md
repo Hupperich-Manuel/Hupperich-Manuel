@@ -1,9 +1,4 @@
 
-<p align="center">
-  <img src =https://user-images.githubusercontent.com/67901472/147389469-276b1429-11c8-4bca-a37c-f926ad75e4d4.gif>
-</p>
-
-
 - 🔭 I’m currently working on web application with machine learning analysis
 - 🌱 I’m currently learning Deep Neural Networks
 - 👯 I’m looking to collaborate on Machine Learning Projects
