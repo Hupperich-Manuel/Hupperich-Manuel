@@ -82,15 +82,11 @@ Creating production-ready pipelines that chain **Claude, GPT & open-source model
 <tr>
 <td width="50%">
 
-### 📈 LSTM-XGBoost Hybrid Forecasting
-<a href="https://github.com/Hupperich-Manuel/LSTM-XGBoost-Hybrid-Forecasting">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hupperich-Manuel&repo=LSTM-XGBoost-Hybrid-Forecasting&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F8D866&text_color=C9D1D9" />
-</a>
-
-<br/>
+### 📈 [LSTM-XGBoost Hybrid Forecasting](https://github.com/Hupperich-Manuel/LSTM-XGBoost-Hybrid-Forecasting)
 
 ![Stars](https://img.shields.io/github/stars/Hupperich-Manuel/LSTM-XGBoost-Hybrid-Forecasting?style=for-the-badge&color=F8D866&labelColor=0D1117)
-![License](https://img.shields.io/github/license/Hupperich-Manuel/LSTM-XGBoost-Hybrid-Forecasting?style=for-the-badge&color=A177FE&labelColor=0D1117)
+![Forks](https://img.shields.io/github/forks/Hupperich-Manuel/LSTM-XGBoost-Hybrid-Forecasting?style=for-the-badge&color=A177FE&labelColor=0D1117)
+![License](https://img.shields.io/github/license/Hupperich-Manuel/LSTM-XGBoost-Hybrid-Forecasting?style=for-the-badge&color=00D4AA&labelColor=0D1117)
 
 **🚀 My flagship project combining LSTM deep learning with XGBoost for stock price prediction. This hybrid approach extracts more information from raw inputs than traditional methods.**
 
@@ -103,15 +99,11 @@ Creating production-ready pipelines that chain **Claude, GPT & open-source model
 </td>
 <td width="50%">
 
-### 🔧 Monty
-<a href="https://github.com/Hupperich-Manuel/monty">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hupperich-Manuel&repo=monty&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=F8D866&text_color=C9D1D9" />
-</a>
-
-<br/>
+### 🔧 [Monty](https://github.com/Hupperich-Manuel/monty)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-A177FE?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-💚-00D4AA?style=for-the-badge&labelColor=0D1117)
+![Contributions](https://img.shields.io/badge/Contributor-A177FE?style=for-the-badge&labelColor=0D1117)
 
 **🛠️ An open-source project I contribute to, showcasing my commitment to collaborative development and community-driven software.**
 
@@ -170,16 +162,6 @@ Creating production-ready pipelines that chain **Claude, GPT & open-source model
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hupperich-Manuel&theme=tokyonight&hide_border=true&background=0D1117&stroke=A177FE&ring=F8D866&fire=F8D866&currStreakLabel=A177FE&sideLabels=C9D1D9&dates=6E7681)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hupperich-Manuel/Hupperich-Manuel/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hupperich-Manuel/Hupperich-Manuel/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Hupperich-Manuel/Hupperich-Manuel/output/github-snake-dark.svg" />
-</picture>
 
 ---
 
